@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.contacts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #262b2b;
+  font-family: "Roboto", sans-serif;
+}
+
+.title {
+  border: 2px solid #5f787b;
+  margin: 2rem 0 0 0;
+  padding: 1rem 3rem;
+
+  h1 {
+    margin: 2rem rem;
+    line-height: 0;
+  }
+}
+
+.information {
+  margin: 3rem;
+}
+
+.newmap {
+  justify-content: center;
+  text-align: center;
+}

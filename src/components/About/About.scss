@@ -1,0 +1,20 @@
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #262b2b;
+
+  .title {
+    border: 2px solid #5f787b;
+    margin: 2rem 0 0 0;
+    padding: 1rem 3rem;
+
+    h1 {
+      line-height: 0;
+    }
+  }
+}
+
+.text {
+  margin: 2rem;
+}
